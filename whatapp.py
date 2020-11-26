@@ -1,2 +1,2 @@
 import pywhatkit
-pywhatkit.sendwhatmsg('+01719517974', 'Happy Birthday',2,16)
+pywhatkit.sendwhatmsg('+(Phone Number)', 'Happy Birthday',2,16)
